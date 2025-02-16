@@ -61,6 +61,8 @@ jobs:
           bun install \
           && composer install \
           && bun run build \
+          && cp .env.example .env \
+          && php artisan key:generate \
           && php please ssg:generate
 
       - name: Setup Pages
