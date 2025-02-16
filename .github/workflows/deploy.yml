@@ -63,7 +63,8 @@ jobs:
           && bun run build \
           && cp .env.example .env \
           && php artisan key:generate \
-          && php please ssg:generate
+          && php please ssg:generate \
+          && cp -R public/build/ storage/app/static/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
