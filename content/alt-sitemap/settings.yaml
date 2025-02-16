@@ -1,0 +1,23 @@
+default_collection_priorities:
+  -
+    id: m77xzzu1
+    collection: articles
+    priority: 0.5
+    type: collection_priority
+    enabled: true
+  -
+    id: m77y04g2
+    collection: pages
+    priority: 0.5
+    type: collection_priority
+    enabled: true
+exclude_collections_from_sitemap: null
+default_taxonomy_priorities:
+  -
+    id: m77y09do
+    taxonomy:
+      - topics
+    priority: 0.5
+    type: taxonomy_priority
+    enabled: true
+exclude_taxonomies_from_sitemap: null
