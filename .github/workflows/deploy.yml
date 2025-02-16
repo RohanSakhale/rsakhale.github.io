@@ -65,6 +65,7 @@ jobs:
           && php artisan key:generate \
           && php please ssg:generate \
           && cp -R public/build/ storage/app/static/
+          && cp -R public/images/ storage/app/static/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
