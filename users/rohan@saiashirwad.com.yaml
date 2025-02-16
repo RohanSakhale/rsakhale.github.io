@@ -1,0 +1,7 @@
+name: 'Rohan Sakhale'
+super: true
+id: 69e04dcb-0a40-4168-ba0f-277c725c6246
+password_hash: $2y$12$TL8hLT86XhXk7aJ16prCLe/E0EDrDsB1Oxl8J9/6ifbMiF/uCNkfS
+preferences:
+  locale: en
+  favorites: {  }

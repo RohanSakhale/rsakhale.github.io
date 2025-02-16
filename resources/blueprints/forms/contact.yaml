@@ -1,0 +1,32 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: name
+            field:
+              placeholder: 'e.g. John Doe'
+              character_limit: 100
+              autocomplete: name
+              type: text
+              display: Name
+          -
+            handle: email
+            field:
+              input_type: email
+              placeholder: 'e.g. johndoe@gmail.com'
+              character_limit: 100
+              autocomplete: email
+              type: text
+              display: Email
+          -
+            handle: mobile_number
+            field:
+              input_type: number
+              placeholder: 'e.g. 9892098920'
+              character_limit: 2
+              autocomplete: tel
+              type: text
+              display: 'Mobile Number'
