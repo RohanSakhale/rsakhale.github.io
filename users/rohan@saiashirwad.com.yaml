@@ -14,3 +14,4 @@ preferences:
         - date
         - status
         - topics
+  theme: dark

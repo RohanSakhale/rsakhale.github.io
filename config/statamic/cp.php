@@ -133,7 +133,7 @@ return [
     |
     */
 
-    'custom_cms_name' => env('STATAMIC_CUSTOM_CMS_NAME', 'Statamic'),
+    'custom_cms_name' => env('STATAMIC_CUSTOM_CMS_NAME', 'Rohan Sakhale Website'),
 
     'custom_logo_url' => env('STATAMIC_CUSTOM_LOGO_URL', null),
 
@@ -157,4 +157,5 @@ return [
     'thumbnail_presets' => [
         // 'medium' => 800,
     ],
+
 ];

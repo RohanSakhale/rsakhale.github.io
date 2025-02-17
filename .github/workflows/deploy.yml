@@ -64,10 +64,6 @@ jobs:
           && cp .env.example .env \
           && php artisan key:generate \
           && php please ssg:generate \
-          && cp -R public/build/ storage/app/static/ \
-          && cp -R public/images/ storage/app/static/ \
-          && cp -R public/favicon.ico storage/app/static/ \
-          && cp -R public/favicon.png storage/app/static/ \
           && php please ssg:generate /sitemap.xml
 
       - name: Setup Pages

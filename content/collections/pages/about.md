@@ -3,7 +3,7 @@ id: 62136fa2-9e5c-4c38-a894-a2753f02f5ff
 blueprint: home
 title: About
 updated_by: 69e04dcb-0a40-4168-ba0f-277c725c6246
-updated_at: 1739757904
+updated_at: 1739759177
 template: page
 alt_seo_noindex: false
 alt_seo_nofollow: false
@@ -11,44 +11,55 @@ exclude_from_sitemap: false
 ---
 > **"Given the right set of raw materials, it can be developed into a finished saleable product."**
 
-Renowned as a **Software Mentor** by passion and an **Engineer** by profession, I bring over **15+ years of Web Development experience** as a Freelancer and **13+ years in the industry**. My journey, deeply influenced by [Prof. Rajesh Patkar](https://www.rajeshpatkar.com) (my mentor, my guru), has been a testament to transforming raw ideas into **scalable, efficient, and market-ready** digital solutions.
-
-Beyond coding, I am passionate about **mentoring students** and sharing practical knowledge on **emerging tech trends, modern frameworks, and best coding practices**.
+I am **Rohan Sakhale**, a **Software Mentor, Engineer, and Tech Innovator** with **15+ years of experience in Web Development** and **13+ years in the industry**. My journey has been shaped by **transforming raw ideas into scalable, market-ready digital products**, and I take pride in **mentoring developers and helping businesses adopt cutting-edge technology**.
 
 ---
 
 ## **🚀 Professional Journey**
-I have contributed to top **Fortune 500 companies**, including:  
-- **[Saba Software](https://saba.com)** (acquired by [Cornerstone OnDemand](https://www.cornerstoneondemand.com/))  
+I have worked with **Fortune 500 companies**, contributing to high-impact enterprise solutions:  
+- **[Saba Software](https://saba.com)** (Acquired by [Cornerstone OnDemand](https://www.cornerstoneondemand.com/))  
 - **[Diebold Nixdorf](https://dieboldnixdorf.com/)**  
 
-where I received **multiple accolades** for my contributions to enterprise software solutions.
+At **Indigital Technologies LLP**, I played a key role in **developing patent-pending, disruptive digital products**.
 
-Following this, I played a pivotal role at **[Indigital Technologies LLP](https://indigitalit.com)**, working on **innovative, patent-pending products** designed to disrupt global markets.
+Between **2021 and 2023**, I contributed to **[Thunderbite](https://thunderbite.com)** (acquired by **[XtremePush](https://xtremepush.com/)**), focusing on **gamification and digital engagement strategies**.
 
-From **2021 to 2023**, I expanded my expertise with **[Thunderbite](https://thunderbite.com)** (acquired by **[XtremePush](https://xtremepush.com/)**), a Gibraltar-based company, where I worked on **gamification and digital engagement solutions**.
+At the **end of 2023**, I briefly contributed to **[OnePin Inc.](https://onepin.com)**, enhancing their **engagement platform through interactive games**.
 
-In **2023**, I briefly engaged with **[OnePin Inc.](https://onepin.com)**, contributing remotely to their **AI-driven engagement platform**. However, my primary focus since **2024** has been **[Sai Ashirwad Informatia](https://saiashirwad.com)**—a company I founded—where I lead **client services, infrastructure support, AI-driven development, and enterprise digital transformation solutions**.
+Since **2024**, my full focus has been on **[Sai Ashirwad Informatia](https://saiashirwad.com)**—where I have been leading the development of **secure, high-performance websites following the Static First Approach** while integrating **modern AI-driven solutions and enterprise SaaS applications**.
 
 ---
 
-## **🛠️ Technological Expertise**
-I specialize in:  
+## **🛠️ Core Technical Expertise**
+### **🔹 Web & Backend Development**
 ✔ **Certified [Laravel](https://laravel.com), [Livewire](https://livewire.laravel.com), [Filament](https://filamentphp.com), [Alpine.js](https://alpinejs.dev)**  
-✔ **[Python](https://www.python.org)** (AWS Chalice, Django)  
-✔ **[React.js](https://react.dev/), [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxt.com/), [Next.js](https://nextjs.org/)**  
-✔ **[AWS Solutions Engineering](https://aws.amazon.com/solutions/)**  
-✔ **[AWS Serverless](https://aws.amazon.com/serverless/)**  
+✔ **[PHP](https://www.php.net), [Node.js](https://nodejs.org), [Python](https://www.python.org) (Django, AWS Chalice)**  
 
-Additionally, I maintain strong expertise in **[#PHP](/tag/php), [#Java](/tag/java), [#JavaScript](/tag/javascript), #CI, #GitLab, #ProjectManagement, #TestAutomation, #AndroidExpert, #Flutter, #SonarQube, and #CodeQuality.**
+### **🔹 Frontend & Full-Stack**
+✔ **[React.js](https://react.dev/), [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxt.com/), [Next.js](https://nextjs.org/)**  
+✔ **Static First Approach for ultra-fast, secure websites with dynamic content**  
+
+### **🔹 Cloud, DevOps & AI**
+✔ **[AWS Solutions Engineer](https://aws.amazon.com/solutions/) | AWS Serverless Architecture**  
+✔ **AI-driven SaaS development | Machine Learning models & AI-powered automation**  
+✔ **GitHub Actions | CI/CD Pipelines | Infrastructure as Code**  
+
+### **🔹 Agile & Strategic Leadership**
+✔ **Agile Planning & Project Execution**  
+✔ **Strategy Builder for Digital Products & Enterprise Solutions**  
+✔ **Process Automation & Business Transformation**  
+✔ **Taking up more leadership responsibilities in 2025**  
+
+Additionally, I maintain strong expertise in **#CI/CD, #GitLab, #ProjectManagement, #TestAutomation, #Flutter, #SonarQube, and #CodeQuality.**
 
 ---
 
 ## **🌟 Vision for 2025**
-As I continue my journey in **2025**, I remain committed to:  
-✅ **Advancing AI-driven software solutions**  
-✅ **Scaling SaaS and enterprise-grade platforms**  
-✅ **Enhancing digital transformation strategies**  
-✅ **Mentoring & empowering the next generation of developers**  
+With **2025 in motion**, my focus has shifted towards:  
+✅ **Advancing AI-driven solutions and model training**  
+✅ **Building AI-powered SaaS applications & automation tools**  
+✅ **Scaling cloud-based platforms using AWS & Serverless architecture**  
+✅ **Mastering leadership skills, strategy execution, and team management**  
+✅ **Enhancing Agile Planning, CI/CD Automation, and Digital Innovation**  
 
-🚀 **Let's connect, innovate, and build the future together!** 🚀
+🚀 **Let’s connect, innovate, and lead the future with AI, automation, and strategic technology solutions!** 🚀
