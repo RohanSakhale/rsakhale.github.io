@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a87fefef0dc4a5f7e73c89f25832437e",
+    "content-hash": "0cb2435dad22594001b61fbe5c3352dc",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -4231,6 +4231,46 @@
                 "source": "https://github.com/rhukster/dom-sanitizer/tree/1.0.7"
             },
             "time": "2023-11-06T16:46:48+00:00"
+        },
+        {
+            "name": "rohan-sakhale/git-deploy",
+            "version": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "addons/rohan-sakhale/git-deploy",
+                "reference": "b58bdc76ee28d58109158866df3f70499b2a0732"
+            },
+            "require": {
+                "statamic/cms": "^5.0"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^9.0"
+            },
+            "type": "library",
+            "extra": {
+                "statamic": {
+                    "name": "Git Deploy",
+                    "description": "Git Deploy addon"
+                },
+                "laravel": {
+                    "providers": [
+                        "RohanSakhale\\GitDeploy\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "RohanSakhale\\GitDeploy\\": "src"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "RohanSakhale\\GitDeploy\\Tests\\": "tests"
+                }
+            },
+            "transport-options": {
+                "relative": true
+            }
         },
         {
             "name": "scrivo/highlight.php",
@@ -10436,7 +10476,9 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {},
+    "stability-flags": {
+        "rohan-sakhale/git-deploy": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
